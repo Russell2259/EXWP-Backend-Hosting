@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Error 405
 
-You can use the [editor on GitHub](https://github.com/Russell2259/EXWP-Backend-Hosting/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [EXWP](https://sites.google.com/apps.ogdensd.org/exwp) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
